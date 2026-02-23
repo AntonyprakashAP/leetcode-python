@@ -1,3 +1,4 @@
+
 """
  in this case we have an binary string and that will be came with grouped consecutively.
  binary strings only contain 0's and 1's
@@ -59,4 +60,5 @@ Constraints:
 
 1 <= s.length <= 105
 s[i] is either '0' or '1'. 
+>>>>>>> 62668963ba2a0b2b2028bdb17afff1ffef58b7a2
 """
